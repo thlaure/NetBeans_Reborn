@@ -17,4 +17,6 @@ et voilà !!!
 
 *Si vous avez des idées d'améliorations merci de laisser un commentaire :) 
 
-![Screenshot](screenshot.png)
+Lien de téléchargement sur le site de NetBeans : http://plugins.netbeans.org/plugin/73121/?show=true
+
+![Screenshot](fullsize.PNG)
