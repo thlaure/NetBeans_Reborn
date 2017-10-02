@@ -16,4 +16,4 @@ et voilà !!!
 
 *Si vous avez des idées d'améliorations merci de laisser un commentaire :) 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
