@@ -1,4 +1,4 @@
-Netbeans_Theme
+NetBeans_Reborn
 
 Créateur original : Thomas Laure 
 
@@ -9,8 +9,9 @@ Vous en avez marre de l'interface de NetBeans ? Mais vous ne pouvez pas vous en 
 Pour l'installer :
 
 - Ouvrir NetBeans
-- Outils - Options
-- Importer 
+- Tools / Options
+- Font and colors
+- Import...
 
 et voilà !!!
 
