@@ -6,7 +6,7 @@ Modification sur le thème : Moi
 
 Vous en avez marre de l'interface de NetBeans ? Mais vous ne pouvez pas vous en passer ? Voici le thème qu'il vous faudra !
 
-Pour l'installer:
+Pour l'installer :
 
 - Ouvrir NetBeans
 - Outils - Options
