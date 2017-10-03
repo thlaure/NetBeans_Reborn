@@ -2,7 +2,7 @@ NetBeans_Reborn
 
 Créateur original : Thomas Laure 
 
-Modification sur le thème : Moi 
+Modification sur le thème : Loïc Delaunay
 
 Vous en avez marre de l'interface de NetBeans ? Mais vous ne pouvez pas vous en passer ? Voici le thème qu'il vous faudra !
 
@@ -10,7 +10,7 @@ Pour l'installer :
 
 - Ouvrir NetBeans
 - Tools / Options
-- Font and colors
+- Fonts & colors
 - Import...
 
 et voilà !!!
