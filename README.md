@@ -1,10 +1,9 @@
-NetBeans_Reborn
+#NetBeans Reborn
 
 Créateur original : Thomas Laure 
-
 Modification sur le thème : Loïc Delaunay
 
-Vous en avez marre de l'interface de NetBeans ? Mais vous ne pouvez pas vous en passer ? Voici le thème qu'il vous faudra !
+Thème inspiré de Sublime Text et de Visual Studio.
 
 Pour l'installer :
 
@@ -12,8 +11,6 @@ Pour l'installer :
 - Tools / Options
 - Fonts & colors
 - Import...
-
-et voilà !!!
 
 *Si vous avez des idées d'améliorations merci de laisser un commentaire :) 
 
