@@ -16,4 +16,4 @@ Pour l'installer :
 
 Lien de téléchargement sur le site de NetBeans : http://plugins.netbeans.org/plugin/73121/?show=true
 
-![Screenshot](fullsize.PNG)
+![Screenshot](netbeansreborn.PNG)
